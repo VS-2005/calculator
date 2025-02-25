@@ -2,7 +2,7 @@ body {
     display: flex;  
     justify-content: center;  
     align-items: center;    
-    background-color: #f3f4f6;  
+    background-color: white;  
     font-family: Arial, sans-serif;  
 }  
 
@@ -22,7 +22,7 @@ body {
     border: 1px solid;  
     border-radius: 5px;  
     padding-right: 10px; 
-    color: white;
+    color: green;
 }  
 
 .buttons {  
